@@ -1,0 +1,7 @@
+n=int(input("enter the number"))
+Sum=0
+i=1
+While i<=n:
+     Sum=sum+i
+     i=i+1
+Print ("the sum is ''," sum)
